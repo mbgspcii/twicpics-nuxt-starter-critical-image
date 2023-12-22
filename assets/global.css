@@ -1,0 +1,12 @@
+body {
+  background-color: #111317;
+}
+main {
+  margin: auto;
+  max-width: 1200px;
+  padding: 24px;
+}
+p {
+  text-align: center;
+  color: #e7e7e7;
+}
